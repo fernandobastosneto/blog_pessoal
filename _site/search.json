@@ -1,0 +1,19 @@
+{
+  "articles": [
+    {
+      "path": "index.html",
+      "title": "Fernando Bastos",
+      "author": [],
+      "contents": "\n\n\n\n",
+      "last_modified": "2021-01-01T21:24:54-03:00"
+    },
+    {
+      "path": "sobre.html",
+      "title": "Fernando Bastos",
+      "author": [],
+      "contents": "\n\n    \n    \n      \n        \n          \n            Fernando Bastos\n          \n          \n            \n              Diplomata brasileiro. Interessado em samba, política, literatura e psicanálise. Tentando aprender a programar para resolver problemas bobos. Não fosse o tidyverse, provavelmente eu nunca teria resolvido nenhum deles.\n            \n            \n              Diplomata brasileiro. Interessado em samba, política, literatura e psicanálise. Tentando aprender a programar para resolver problemas bobos. Não fosse o tidyverse, provavelmente eu nunca teria resolvido nenhum deles.\n            \n          \n\n          \n            \n              \n                  \n                    \n                      GitHub\n                    \n                  \n                \n                                \n                  \n                    \n                      Email\n                    \n                  \n                \n                              \n          \n\n          \n            \n              \n                                \n                  \n                    GitHub\n                  \n                \n                                \n                  \n                    Email\n                  \n                \n                              \n            \n          \n        \n      \n    \n\n    \n    \n    ",
+      "last_modified": "2021-01-01T21:24:57-03:00"
+    }
+  ],
+  "collections": ["posts/posts.json"]
+}

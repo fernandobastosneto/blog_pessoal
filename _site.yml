@@ -1,0 +1,12 @@
+name: "blog_pessoal"
+title: "Fernando Bastos"
+description: |
+  Fernando Bastos
+output_dir: "_site"
+navbar:
+  right:
+    - text: "Home"
+      href: index.html
+    - text: "About"
+      href: sobre.html
+output: distill::distill_article

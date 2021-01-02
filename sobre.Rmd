@@ -1,0 +1,13 @@
+---
+title: "Fernando Bastos"
+image: "foto_riobranco.jpg"
+links:
+  - label: GitHub
+    url: "https://github.com/fernandobastosneto"
+  - label: Email
+    url: "mailto:fernando.bastos@itamaraty.gov.br"
+output:
+  postcards::jolla
+---
+ 
+Diplomata brasileiro. Interessado em samba, política, literatura e psicanálise. Tentando aprender a programar para resolver problemas bobos. Não fosse o [tidyverse](https://www.tidyverse.org/), provavelmente eu nunca teria resolvido nenhum deles.
